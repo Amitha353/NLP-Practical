@@ -9,4 +9,4 @@
  7. GRU Model for Natural Langauge Text Generation
  8. LSTM Model for Natural Language Text Generation
  9. PTB Character Prediction for NLG
- 10 PTB Word Prediction for NLG
+ 10. PTB Word Prediction for NLG
